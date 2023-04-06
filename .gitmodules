@@ -1,0 +1,6 @@
+[submodule "Packages/com.zen.core"]
+	path = Packages/com.zen.core
+	url = https://github.com/BurakEberhardt/Zen.Core
+[submodule "Packages/com.zen.input"]
+	path = Packages/com.zen.input
+	url = https://github.com/BurakEberhardt/Zen.Input

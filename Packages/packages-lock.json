@@ -217,6 +217,20 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.zen.core": {
+      "version": "file:com.zen.core",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.zen.input": {
+      "version": "file:com.zen.input",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.zen.core": ""
+      }
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
